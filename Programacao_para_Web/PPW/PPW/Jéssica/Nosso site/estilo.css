@@ -1,0 +1,49 @@
+@import url(https://fonts.google.com/share?selection.family=DM+Serif+Display:ital@0;1);
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+	background-color: #457D58;
+	text-align: center;
+	font-family: 'Serif';
+}
+a:visited{
+	color: #51ae72;
+}
+a{
+	color:#3f5e4a;
+}
+div{
+	font-family: "Libre Franklin", sans-serif;
+	color: black;
+	margin: 50px 370px;
+	border: 4px;
+	background-color:white;
+	text-align: center;
+	border-color: black;
+    border-style: solid;
+}
+img{
+	width: 360px;
+	align-items: center;
+}
+li{
+	list-style: none;
+}
+header{
+	font-family: "Libre Franklin", sans-serif;
+	color: black;
+	margin: 50px 370px;
+	border: 4px;
+	background-color:white;
+	text-align: center;
+	border-color: black;
+	border-style: solid;
+    
+}
+input:focus{
+	background-color:#51ae72 ;
+
+}
+textarea:focus{
+	background-color: #51ae72;
+}

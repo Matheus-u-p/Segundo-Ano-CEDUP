@@ -1,0 +1,105 @@
+body{
+    font-family:  calibri;
+    background-image: url(images.jpg);
+    color:black;
+    text-align: left;
+    padding-right: 40%;
+    padding-left: 0%;
+
+}  
+
+#instas{
+    background-color: white;
+    border-color: #8c52ff;
+    border-style: solid;
+    padding: 20px;
+    left: 60%;
+    top: 40%;
+    width: 15%;
+    position: fixed;
+}
+
+#nomes{
+    padding: 20px;
+    left: 60%;
+    right: 0%;
+    width: 40%;
+    height: 30%;
+    border-color: #8c52ff;
+    border-style: solid;
+    position: fixed;
+    background-color: white;
+    font-family: calibri;
+    color: rgb(134, 134, 134)
+}
+#site{
+    padding: 20px;
+    background-color: white;
+    border-color: #8c52ff;
+    border-style: solid;
+    
+    }
+    
+#barra{
+    padding: 20px;
+    background-image: url(M---C.png);
+    border-color: #8c52ff;
+    border-style: solid;
+    position: fixed;
+    width:  100%;
+    height: auto;
+    align-items: center;
+    top:0%;
+    left: 0%;
+}
+
+
+h1{
+color: white;
+text-align: center;
+background-color: #8c52ff;
+}  
+
+
+h2{
+text-align: center;
+}
+
+h4:hover{
+color:#8c52ff;
+}  
+
+h5{
+font-style: italic;
+text-indent: 10%;
+}
+
+
+#cedup{
+position: fixed;
+top: 55px;
+left: 1270px;
+}
+#perfilma{
+    position: fixed;
+    top: 450px;
+    left: 1100px;
+    width: 40px;
+}
+#perfilc{
+    position: fixed;
+    top: 400px;
+    left: 1100px;
+    width: 40px;
+}
+#insta{
+    position: fixed;
+    top: 310px;
+    left: 1090px;
+    width: 50px;
+}
+
+a{
+    color: rgb(134, 134, 134);
+    text-decoration: none;
+}

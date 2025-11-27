@@ -1,0 +1,73 @@
+<link rel='stylesheet' href='estilo.css' type='text/css' />
+<html>
+    <title>Cadastro</title>
+    <body>
+        <header>
+        <h1>Cadastro</h1>
+    </header>
+        <div>
+            <h2>Dados pesoais</h2>
+        <form action="cadastro.html" method="POST">
+        <h4>Nome: </h4>
+        <input type="text" maxlength="30" />
+
+        <h4>Endereço: </h4>
+        <input type="text" maxlength="30" />
+
+        <h4>Cidade: </h4>
+        <input type="text" maxlength="30" />
+
+        <h4>Estado </h4>
+        <select multiple="multiple">
+            <option value="1">São Paulo</option>
+            <option value="2">Rio de Janeiro</option>
+            <option value="3">Santa Catarina</option>
+            <option value="4">Paraná</option>
+            <option value="5">Rio Grande do Sul</option>
+            <option value="6">Rio Grande do Norte</option>
+            <option value="7">Minas Gerais</option>
+            <option value="8">Espirito Santo</option>
+            <option value="9">Bahia</option>
+            <option value="10">Pernambuco</option>
+        </select>
+    </br>
+        <input type=submit value="Enviar" />
+        <input type=reset value="Limpar" />
+        </form>
+    </div>
+
+    <div>
+        <h2>Dados profissionais</h2>
+
+        <form action="cadastro.html" method="POST">
+            <h4>Natureza do cargo:</h4>
+            <input type="checkbox" value="1">Gerencia</>
+            <input type="checkbox" value="2">Faxineiro</>
+            <input type="checkbox" value="3">Banqueiro</>
+            <input type="checkbox" value="4">Motoboy</>
+            <input type="checkbox" value="5">Garçom</>
+        </br>
+            <input type="checkbox" value="6">Chefe de Cozinha</>
+            <input type="checkbox" value="7">Professor</>
+            <input type="checkbox" value="8">Barbeiro</>
+
+        <h3>Área de interesse:</h3>
+        <input type="radio" value="1">Computação</>
+        <input type="radio" value="2">Professor de Biologia</>
+        <input type="radio" value="3">Professor de Fisica</>
+            </br>
+        <input type="radio" value="4">Professor de Quimica</>
+        <input type="radio" value="5">Engenharia</>
+
+        <h5>Mini curriculo:</h5>
+        <textarea rows="15" cols="50"></textarea>
+        </br>
+        <input type=submit value="Enviar" />
+        <input type=reset value="Limpar" />
+
+        <p><a href="menu.html"> Voltar para o menu </a></p>
+    </div>
+
+    </body>
+
+</html>

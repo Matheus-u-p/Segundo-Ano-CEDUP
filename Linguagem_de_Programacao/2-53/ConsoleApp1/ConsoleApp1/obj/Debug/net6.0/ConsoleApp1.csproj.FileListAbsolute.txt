@@ -1,0 +1,14 @@
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Alunos\Documents\2-53\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

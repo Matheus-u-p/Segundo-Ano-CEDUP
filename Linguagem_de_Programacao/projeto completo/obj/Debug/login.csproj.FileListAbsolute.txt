@@ -1,0 +1,135 @@
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\login.exe.config
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\login.exe
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\login.pdb
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.exe
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.pdb
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.frmRegister.resources
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\MySql.Data.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Buffers.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Memory.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\ZstdSharp.dll
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\MySql.Data.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Buffers.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Memory.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.csproj.Up2Date
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\login.login.resources
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\251\login\login\obj\Debug\Cadastro.FormCadCliente.resources
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.exe.config
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.exe
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.pdb
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Hash.xxHash.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\MySql.Data.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Buffers.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.IO.Pipelines.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Memory.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Numerics.Vectors.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\ZstdSharp.dll
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.pdb
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Hash.xxHash.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\MySql.Data.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Buffers.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.IO.Pipelines.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Memory.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Numerics.Vectors.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.AssemblyReference.cache
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.frmRegister.resources
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\Cadastro.FormCadCliente.resources
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.login.resources
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.Properties.Resources.resources
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.GenerateResource.cache
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.Up2Date
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.exe
+E:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.pdb
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.exe.config
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.exe
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\login.pdb
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Hash.xxHash.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\MySql.Data.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Buffers.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.IO.Pipelines.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Memory.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Numerics.Vectors.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\ZstdSharp.dll
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.pdb
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Google.Protobuf.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\K4os.Hash.xxHash.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\MySql.Data.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Buffers.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.IO.Pipelines.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Memory.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Numerics.Vectors.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.AssemblyReference.cache
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.frmRegister.resources
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\Cadastro.FormCadCliente.resources
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.login.resources
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.Properties.Resources.resources
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.GenerateResource.cache
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.csproj.CopyComplete
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.exe
+D:\Matérias do Curso 2024 - Copia\Linguagem de Programação\projeto completo\obj\Debug\login.pdb
